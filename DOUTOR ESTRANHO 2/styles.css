@@ -76,3 +76,14 @@ span:hover {
 .em-breve {
     margin-top: 10px;
 }
+
+.direitos-autorais {
+    text-align: center;
+    border-top: 1px solid #000000;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    bottom: 0px;
+    width: 100%;
+    font-size: 16px;
+    font-weight: normal;
+}
